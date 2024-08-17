@@ -25,8 +25,8 @@ This project is a basic CRUD (Create, Read, Update, Delete) system developed usi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name/backend
+    git clone https://github.com/iouliakan/CrudOperations.git
+    cd CrudOperations/backend
     ```
 
 2. Ensure you have Maven and Java installed.
